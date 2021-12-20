@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: auto;
+}
+
+body {
+  height: 100%;
+  background-image: url(../imagenes/flores_0.jpg);
+  background-color: #cccccc;
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.div-imagen-principal {
+  height: 60%;
+  width: 50%;
+  background-color: transparent;
+  margin: 5%;
+}
+
+#imagen-principal {
+  height: 500px;
+}
+
+.mesa {
+  background-color: #a30123;
+  height: auto;
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=style.css.map */

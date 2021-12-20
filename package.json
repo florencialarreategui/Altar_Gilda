@@ -1,0 +1,14 @@
+{
+  "name": "altar-gilda",
+  "version": "1.0.0",
+  "description": "proyecto nmp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Florencia Larreategui",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.45.0"
+  }
+}
